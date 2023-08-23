@@ -1,0 +1,33 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>planet animation</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/normalize.css" />
+
+    <!--[if lt IE 9]>
+      <script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+  <body id="universe">
+    <div
+      id="stars"
+      style="
+        position: relative;
+        z-index: 2;
+        height: 100%;
+        width: 100%;
+        background: url('images/stars.png');
+      "
+    ></div>
+    <div id="sun"></div>
+    <div id="earthOrbit">
+      <img src="images/earth.png" alt="Earth" id="earth" />
+      <div id="moonOrbit">
+        <div id="moon"></div>
+      </div>
+    </div>
+  </body>
+</html>
