@@ -1,3 +1,4 @@
-# orbiting-planet-animation
+# orbiting-planet-animation(En)
 
-Here we have a project "orbitng planet animation" that is created by me, additionally it focus on Css animation more
+'orbiting planet animation' is a sample project that was created by me and I use Css code more  
+Hope you like it
