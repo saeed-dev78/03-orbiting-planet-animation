@@ -13,4 +13,4 @@
 
 ⚙ Technologies used: HTML / CSS
 
-📥 How to reach me: with my [Linkedin](https://www.linkedin.com/in/saeeddev-ir) / [Instagram](https://instagram.com/saeeddev_ir) / [Telegram]()
+📥 How to reach me: with my [Linkedin](https://www.linkedin.com/in/saeeddev-ir) / [Instagram](https://instagram.com/saeeddev_ir) / [Telegram](https://t.me/saeeddev_ir)
