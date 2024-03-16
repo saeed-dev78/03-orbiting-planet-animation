@@ -9,8 +9,8 @@
 
 👨‍💻 Developed by Saeed Abdollahi
 
-💻 Role: FrontEnd
+💻 Role: Frontend
 
 ⚙ Technologies used: HTML / CSS
 
-How to reach me: with my [Linkedin]() and [Instagram]()
+How to reach me: with my [Linkedin](https://www.linkedin.com/in/saeeddev-ir) and [Instagram]()
