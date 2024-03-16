@@ -6,7 +6,11 @@
 
 
 🔗 [Demo Project](https://saeeddev-ir.github.io/planet-animation/)
+
 👨‍💻 Developed by Saeed Abdollahi
+
 💻 Role: FrontEnd
+
 ⚙ Technologies used: HTML / CSS
-How to reach me: with my [Linkedin]() or [Instagram]()
+
+How to reach me: with my [Linkedin]() and [Instagram]()
